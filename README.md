@@ -16,7 +16,7 @@ This is a hardware-based project built during my time at MANIT Bhopal. The goal 
 - MATLAB Simulink for design simulation
 
 ## 📸 Photos 
-![EV Charging Setup](WhatsApp Image 2025-06-18 at 18.38.08_78809c23.jpg)
+![EV Charging Setup](fileev.jpg)
 
 ## 📈 Outcome
 - Functional prototype built
